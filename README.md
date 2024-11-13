@@ -131,7 +131,9 @@ This should incorporate untitled_design1.jpg and mod_int.png into your traffic s
 
 
 
+![Screenshot 2024-11-07 000347](https://github.com/user-attachments/assets/19ce4afd-9a1e-474f-9598-237bcd7f2520)
 
+![WhatsApp Image 2024-10-25 at 11 14 09_09a285eb](https://github.com/user-attachments/assets/4f6437a1-2b6e-4db2-b497-e07fc1b1bf1e)
 
 
 
