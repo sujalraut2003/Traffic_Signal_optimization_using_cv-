@@ -130,7 +130,8 @@ python traffic-simulation.py
 This should incorporate untitled_design1.jpg and mod_int.png into your traffic simulation. Let me know if there are any specific uses or further customization needed for these images!
 
 
-![Screenshot 2024-11-07 000347](https://github.com/user-attachments/assets/f27b835b-eb47-4027-b042-baede6a8022e)
+
+![Screenshot 2024-11-07 001326](https://github.com/user-attachments/assets/2615663b-633e-4053-add3-230ef13d450b)
 
 ![Screenshot 2024-11-07 000347](https://github.com/user-attachments/assets/19ce4afd-9a1e-474f-9598-237bcd7f2520)
 
